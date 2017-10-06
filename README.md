@@ -3,7 +3,7 @@
 **Project Flask Nucleo GNU Linux ** Web Site con Flask
 ### Tecnologías
 
-  * [Presentacion Python](https://chrome.google.com/webstore/detail/acortador-url/heapgkainnjfgganbefabkjdhkeieifm?hl=es)
+  * [PresentacionPython](https://docs.google.com/presentation/d/1PAME-vlUVMOX8Xm4dCsLXXdZgsTUT-9dVBLPlUxJmn4/edit?usp=sharing)
   * [Presentacion Flask](http://flask.pocoo.org/docs/0.12/)
   * [Plantilla](https://startbootstrap.com/template-overviews/freelancer/)
 
